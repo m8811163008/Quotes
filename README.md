@@ -1,12 +1,16 @@
 # Wonder Words
 The app is WonderWords, an insightful quotes archive. Users can
 explore, upvote, downvote and mark their favorite quotes.
+
 ![image](https://user-images.githubusercontent.com/20933055/236761160-016d419c-0c41-4801-b39b-5efc5ec9f605.png)
+
 ![image](https://user-images.githubusercontent.com/20933055/236761227-b83215f1-d9c0-4713-8559-8718eafb280f.png)
+
 # Features: 
 search, pagination, forms, authentication, deep links,
 internationalization, dark mode, analytics, feature flags, automated tests, CI/CD
 # Architecture
+
 ![image](https://user-images.githubusercontent.com/20933055/236761616-64a454e5-2779-4bd6-8098-bff5dc4429b0.png)
 
 This architecture is the result of Package-by-layer and Package-by-feature architecture, some packages are feature-based, like `quote_list`, `quote_details`
