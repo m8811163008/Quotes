@@ -59,6 +59,6 @@ dynamic links, analytics, crash reporting, feature flags and A/B tests.Start by 
 click Create a project or Add project if you have a project before.
 
 # Install
-To use this app from restricted area you may use VPN
+To use this app from restricted area you may use VPN.
 Here is the fat apk file to install and explore the application.
 [app-release.zip](https://github.com/m8811163008/wonderWords/files/11418976/app-release.zip)
