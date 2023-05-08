@@ -14,7 +14,7 @@ internationalization, dark mode, analytics, feature flags, automated tests, CI/C
 ![image](https://user-images.githubusercontent.com/20933055/236761616-64a454e5-2779-4bd6-8098-bff5dc4429b0.png)
 
 This architecture is the result of Package-by-layer and Package-by-feature architecture, some packages are feature-based, like `quote_list`, `quote_details`
-and `sign_in`. In contrast, all the other packages represented above are layerbased, like `key_value_storage` and `component_library`.
+and `sign_in`. In contrast, all the other packages represented above are layer based, like `key_value_storage` and `component_library`.
 What is a feature?
 we consider a feature to be either:
 1. A screen.
